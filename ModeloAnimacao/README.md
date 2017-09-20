@@ -1,4 +1,4 @@
-# Monitoria
+# Modelo de Animação Basica
 Este é um modelo simples de um jogo plataforma feito utilizando a ferramenta OpenFrameWorks.
 
 Para abrir o executavel do projeto:
