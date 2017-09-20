@@ -1,4 +1,4 @@
-# Monitoria
+# Modelo Basico de Jogo Plataforma
 Este é um modelo simples de um jogo plataforma feito utilizando a ferramenta OpenFrameWorks.
 
 Para abrir o executavel do projeto:
