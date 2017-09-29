@@ -1,5 +1,6 @@
-# Modelo de Animação Basica
-Este é um modelo simples de um jogo plataforma feito utilizando a ferramenta OpenFrameWorks.
+# Modelo de Inicial de Tiros
+Este é um modelo simples de um Space Shooter feito utilizando a ferramenta OpenFrameWorks.
+Ele apenas é um exemplo básico de Falso Spawn de tiros, não contém movimentação de personagem muito menos colisão
 
 Para abrir o executavel do projeto:
  1. Fazer download da pasta com o repositório.
