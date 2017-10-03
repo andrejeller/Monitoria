@@ -1,4 +1,4 @@
-# Modelo de de Tiros e Colisão
+# Modelo de Tiros e Colisão
 Este é um modelo simples de um Space Shooter feito utilizando a ferramenta OpenFrameWorks.
 Ele comtém dois tipos de colisão entre "Tiro" e "Inimigo" feito apartir do exemplo passado "ModeloTiroInicial" que tembém consta no GitHub.
 
