@@ -1,6 +1,8 @@
-# Modelo de Inicial de Tiros
+# Modelo de Tiros e Colisão
 Este é um modelo simples de um Space Shooter feito utilizando a ferramenta OpenFrameWorks.
-Ele apenas é um exemplo básico de Falso Spawn de tiros, não contém movimentação de personagem muito menos colisão
+Ele comtém dois tipos de colisão entre "Tiro" e "Inimigo" feito apartir do exemplo passado "ModeloTiroInicial" que tembém consta no GitHub.
+
+Movimentação Player 'a', 'd' e 'Espaço' para atirar
 
 Para abrir o executavel do projeto:
  1. Fazer download da pasta com o repositório.
